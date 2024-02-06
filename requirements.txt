@@ -1,3 +1,4 @@
+wheel==0.42.0
 asgiref==3.7.2
 Django==4.2.9
 Faker==22.2.0
@@ -7,6 +8,5 @@ setuptools==69.0.3
 six==1.16.0
 sqlparse==0.4.4
 tzdata==2023.4
-wheel==0.42.0
-pysqlite3-binary
-pysqlite3==3.35.4
+
+
